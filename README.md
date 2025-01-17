@@ -1,4 +1,4 @@
-# 🚀 Proyecto JobHunter 
+# 🚀 Proyecto JobHunter :)
 
 ## 📸 IMAGENES DEL PROYECTO
 Para ver capturas detalladas de la aplicación y su funcionamiento, visita el siguiente enlace:
